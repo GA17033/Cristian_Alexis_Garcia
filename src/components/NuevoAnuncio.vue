@@ -187,9 +187,7 @@
                       v-model="nuevoAnuncio.titulo"
                       required
                     />
-                    <small id="titleHelp" class="form-text text-muted">
-                      Marca y Modelo.
-                    </small>
+                    
                   </div>
                 </div>
                
@@ -219,9 +217,7 @@
                       required
                       v-model="nuevoAnuncio.telefono"
                     />
-                    <small id="telHelp" class="form-text text-muted">
-                      Region + telefono.
-                    </small>
+                   
                   </div>
                 </div>
                 <div class="row form-group my-2">
