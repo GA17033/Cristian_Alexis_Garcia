@@ -182,7 +182,7 @@ onMount() {
     },
 
     showToast() {
-      this.$emit("showToast", "info");
+      this.$emit("showToast", "success");
     },
     
   },
