@@ -153,7 +153,7 @@
               style="background-color: purple"
             >
               <div class="col-10 d-inline">
-                <b-icon-phone-fill class="h4 mb-0" />
+               
                 <h4 class="d-inline">CellPhone Store</h4>
               </div>
 
