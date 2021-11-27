@@ -97,7 +97,7 @@
               </tr>
               <tr>
                 <td>Pantalla:</td>
-                <td>{{ anuncioActual.pantalla }}''</td>
+                <td>{{ anuncioActual.pantalla }}</td>
               </tr>
               <tr>
                 <td>RAM:</td>
