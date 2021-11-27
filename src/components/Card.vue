@@ -10,9 +10,7 @@
             >
               <h2 class="card-title mb-1">{{ anuncio.titulo }}</h2>
             </router-link>
-            <span class="badge badge-pill badge-secondary"
-              > {{ anuncio.vendedor }}</span
-            >
+           
             <p class="card-text mt-2">
               <small class="text-muted">Estado: {{ anuncio.estado }}</small>
             </p>
