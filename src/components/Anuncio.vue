@@ -104,7 +104,7 @@
                 <td>{{ anuncioActual.ram }} GB</td>
               </tr>
               <tr>
-                <td>Almacenamiento:</td>
+                <td>ROM:</td>
                 <td>{{ anuncioActual.rom }} GB</td>
               </tr>
             </tbody>
