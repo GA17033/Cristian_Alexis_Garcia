@@ -92,19 +92,19 @@
                 <td>{{ anuncioActual.modelo }}</td>
               </tr>
               <tr>
-                <td>Sistema Operativo:</td>
+                <td>Sistema:</td>
                 <td>{{ anuncioActual.sistema }}</td>
               </tr>
               <tr>
                 <td>Pantalla:</td>
-                <td>{{ anuncioActual.pantalla }}''</td>
+                <td>{{ anuncioActual.pantalla }}</td>
               </tr>
               <tr>
                 <td>RAM:</td>
                 <td>{{ anuncioActual.ram }} GB</td>
               </tr>
               <tr>
-                <td>Almacenamiento:</td>
+                <td>ROM:</td>
                 <td>{{ anuncioActual.rom }} GB</td>
               </tr>
             </tbody>
