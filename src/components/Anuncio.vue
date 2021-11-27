@@ -92,7 +92,7 @@
                 <td>{{ anuncioActual.modelo }}</td>
               </tr>
               <tr>
-                <td>Sistema Operativo:</td>
+                <td>Sistema:</td>
                 <td>{{ anuncioActual.sistema }}</td>
               </tr>
               <tr>
