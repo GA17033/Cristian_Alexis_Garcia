@@ -16,7 +16,7 @@
           class="navbar-brand d-none d-md-inline"
           :to="{ name: 'Home', params: { carrito: carrito, cadena: cadena } }"
         >
-          <strong>CellPhone Store</strong>
+          <strong>Tienda CellPhone</strong>
           <b-icon-shop-window class="h4 mb-0"></b-icon-shop-window>
         </router-link>
         <!-- NAVBAR BRAND -->
@@ -154,7 +154,7 @@
             >
               <div class="col-10 d-inline">
                
-                <h4 class="d-inline">CellPhone Store</h4>
+                <h4 class="d-inline">Tienda CellPhone</h4>
               </div>
 
               <div class="col-2 d-inline">
